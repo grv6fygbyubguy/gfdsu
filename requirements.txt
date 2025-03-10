@@ -1,0 +1,7 @@
+flask
+google-generativeai
+speechrecognition
+pyttsx3
+requests
+beautifulsoup4
+googlesearch-python
