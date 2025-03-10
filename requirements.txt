@@ -5,3 +5,4 @@ pyttsx3
 requests
 beautifulsoup4
 googlesearch-python
+gunicorn
